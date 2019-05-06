@@ -6,8 +6,8 @@ Techniques used: CNN, Bayesian CNN
 
 Tools Used: PyTorch, Jupyter Notebook, Python
 
-* Baseline CNN - pytorch_vanilla_cnn_1.ipynb & pytorch_vanilla_cnn_2.ipynb
+* Baseline CNN - CNN_pytorch_baseline.ipynb & CNN_pytorch_baseline_0.ipynb
 
-* Bayesian Neural Network - BML NN v0.2ss.ipynb
+* Bayesian Neural Network - Bayesian NN.ipynb
 
-* Bayesian Convolutional Neural Network - Bayesian_CNN9.ipynb
+* Bayesian Convolutional Neural Network - Bayesian_CNN.ipynb
